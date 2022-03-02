@@ -140,9 +140,10 @@ blockquote::before{
         grid-template-columns: 1fr;
     }
 }
+/*----------Rodapé----------*/
 footer{
     width: 100%;
-    min-height: 250px;
+    min-height: 200px;
     background: #444;
     display: flex;
 }
